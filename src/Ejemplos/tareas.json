@@ -1,0 +1,25 @@
+[
+    {
+        "id":1,
+        "titulo":"Tarea 1",
+        "descripcion":"texto de la tarea",
+        "estado":true
+    },  {
+        "id":2,
+        "titulo":"Tarea 2",
+        "descripcion":"texto de la tarea",
+        "estado":true
+    },
+    {
+        "id":3,
+        "titulo":"Tarea 3",
+        "descripcion":"texto de la tarea",
+        "estado":true
+    },
+    {
+        "id":4,
+        "titulo":"Tarea 4",
+        "descripcion":"texto de la tarea",
+        "estado":true
+    }
+]
